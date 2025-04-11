@@ -4,7 +4,10 @@ import {
   getDocs,
   query,
   where
-} from "https://www.gstatic.com/firebasejs/10.9.0/firebase-firestore.js";
+} from   "https://www.gstatic.com/firebasejs/7.14.5/firebase-app.js";
+
+
+
 
 const eventList = document.getElementById('eventList');
 
